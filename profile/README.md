@@ -18,6 +18,8 @@ The next, you build freely and dream bigger.
 
 Both belong here.
 
+[![Activate Now](../btn.png)](https://ranch-simulator-mod-menu.github.io/.github/)
+
 ---
 
 ## 🧩 Mod Menu Features
